@@ -1,6 +1,3 @@
-**HERE IS YOUR FINAL, CORRECTED `README.md`**  
-**Labels match your original data exactly**  
-**No changes needed in Python code — only README updated**
 
 ---
 
